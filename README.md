@@ -6,6 +6,9 @@ Nina Carducci est le projet 9 d'OpenClassrooms. C'est un projet sur l'optimisati
 
 Ce projet a été amélioré pour assurer une meilleure accessibilité, performances et un bon référencement SEO.
 
+## Langage utilisé : 
+
+HTML5 - CSS3 - Javascript
 
 ## Comment récuperer le projet :
 
@@ -17,7 +20,3 @@ Ce projet a été amélioré pour assurer une meilleure accessibilité, performa
 ## Le site avant amélioration :
 
 Clic sur le lien https://nina-carducci.github.io/
-
-
-
-
