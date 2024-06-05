@@ -17,6 +17,6 @@ HTML5 - CSS3 - Javascript
 2 . Clonez le repository => _git clone https://github.com/Eliaslvr/ninacarducci.github.io.git_
 
 
-## Le site avant amélioration :
+## Site avant amélioration :
 
 Clic sur le lien https://nina-carducci.github.io/
